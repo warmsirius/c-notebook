@@ -26,6 +26,7 @@ int main(void) {
     } else {
         printf("该方程无解");
     }
+    return 0;
 }
 
 
