@@ -21,6 +21,7 @@ int main(void) {
 
     //字符常量
     char c1 = 'a';
+    printf("%c\n", c1);
 
     return 0;
 }
