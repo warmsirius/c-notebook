@@ -4,4 +4,4 @@ project(c-notebook)
 set(CMAKE_CXX_STANDARD 11)
 set(CMAKE_C_STANDARD 99)
 
-add_subdirectory(chapter1)
+add_subdirectory(1.变量)
