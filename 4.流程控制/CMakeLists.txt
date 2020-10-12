@@ -1,0 +1,1 @@
+add_executable(4.2 2.if.c)
