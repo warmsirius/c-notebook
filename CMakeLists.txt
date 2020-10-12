@@ -6,3 +6,4 @@ set(CMAKE_C_STANDARD 99)
 
 add_subdirectory(1.数据类型和变量)
 add_subdirectory(2.printf和scanf)
+add_subdirectory(3.运算符)
