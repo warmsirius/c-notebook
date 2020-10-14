@@ -15,6 +15,11 @@ int main(void) {
     } else {
         printf("%d\n", j);
     }
+
+    //if空语句
+    if(3 > 2);
+        printf("AAA\n");
+        printf("AAA\n");
     return 0;
 }
 
